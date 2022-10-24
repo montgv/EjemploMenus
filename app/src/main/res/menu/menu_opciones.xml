@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/idMenu1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/id_menu_1"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/idMenu2"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="@string/id_menu_2" />
+</menu>

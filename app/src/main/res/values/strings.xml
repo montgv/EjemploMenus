@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjemploMenus</string>
+    <string name="id_menu_2">Segunda</string>
+    <string name="id_menu_1">Primera</string>
+</resources>
